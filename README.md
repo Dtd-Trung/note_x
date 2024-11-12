@@ -23,6 +23,10 @@ You can contribute to the application's translation by:
 - Telegram Channel(https://t.me/mediaplayerpro)
 - Direct Contact: [Abdallah Alanbry](https://t.me/abdallah_alanbry)
 
+## donation
+If you like the application, you can contribute by donating, this will help us continue to add new features, and create new applications.
+- donate via paypal(https://paypal.me/mohamedyousef22?country.x=EG&locale.x=en_US)
+
 ## Changes
 
 ### Version 1.2
