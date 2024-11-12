@@ -16,7 +16,7 @@
 "line_number": "رقم السطر: @index",
 "edit": "تحرير",
 "copy": "نسخ",
-"delete_line": "حذف السطر (@{index})؟",
+"delete_line": "حذف السطر (@index)؟",
 "editor": "المحرر",
 "undo": "التراجع عن التغييرات",
 "save": "حفظ التغييرات",

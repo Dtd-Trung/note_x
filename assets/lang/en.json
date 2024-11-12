@@ -16,7 +16,7 @@
 "line_number": "line number: @index",
 "edit": "edit",
 "copy": "copy",
-"delete_line": "delete line (@{index})؟",
+"delete_line": "delete line (@index)؟",
 "editor": "editor",
 "undo": "Undo changes",
 "save": "save changes",

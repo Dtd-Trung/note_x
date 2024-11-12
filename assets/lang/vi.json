@@ -16,7 +16,7 @@
   "line_number": "số dòng: @index",
   "edit": "Chỉnh sửa",
   "copy": "sao chép",
-  "delete_line": "xóa dòng (@{index})",
+  "delete_line": "xóa dòng (@index)",
   "editor": "Trình chỉnh sửa",
   "undo": "Hoàn tác thay đổi",
   "save": "lưu thay đổi",
